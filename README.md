@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Ваше Имя]
+# 👋 Hello, I'm Alexandra
 
 **`Bachelor of Applied Informatics (Python Developer)`**
 
@@ -21,10 +21,7 @@ Here are my key projects that showcase my skills and learning path.
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [`Furniture Store (Diploma)`](https://github.com/yourname/furniture-store) | A full-fledged online store backend with API for furniture. | Django, DRF, PostgreSQL, Docker |
-| [`Habit Tracker Bot`](https://github.com/yourname/habit-tracker-bot) | A Telegram bot to help users track and maintain their daily habits. | Python, python-telegram-bot, SQLite |
-| [`Data Analysis: Bank Churn`](https://github.com/yourname/bank-churn-analysis) | Jupyter Notebook with analysis and visualization of bank customer churn. | Pandas, Matplotlib, Seaborn, SciKit-Learn |
-| [`Task Manager API`](https://github.com/yourname/task-manager-api) | A simple REST API for task management with user authentication. | Flask, SQLAlchemy, JWT |
+
 
 
 ## 📫 How to reach me
