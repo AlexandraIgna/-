@@ -26,20 +26,9 @@ Here are my key projects that showcase my skills and learning path.
 | [`Data Analysis: Bank Churn`](https://github.com/yourname/bank-churn-analysis) | Jupyter Notebook with analysis and visualization of bank customer churn. | Pandas, Matplotlib, Seaborn, SciKit-Learn |
 | [`Task Manager API`](https://github.com/yourname/task-manager-api) | A simple REST API for task management with user authentication. | Flask, SQLAlchemy, JWT |
 
----
-
-## 📊 GitHub Stats
-
-(Опционально, но выглядит круто. Можно сгенерировать на https://git.io/streak-stats)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourname&theme=default" />
-</p>
-
----
 
 ## 📫 How to reach me
 
 *   **Email:** your.email@domain.com
 *   **Telegram:** @yournickname
-*   **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
+
